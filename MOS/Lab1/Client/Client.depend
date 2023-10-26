@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698311128 source:c:\users\vbgch\documents\1 sem mag\mos\lab1\client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<unistd.h>
+
