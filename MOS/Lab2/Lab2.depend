@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699133831 source:c:\users\vbgch\documents\1 sem mag\mos\lab2\main.c
+	<io.h>
+	<windows.h>
+	<sys/types.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	<time.h>
+
