@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700720633 source:c:\users\vbgch\documents\1 sem mag\mos\lab3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<getopt.h>
+	<unistd.h>
+	<math.h>
+
